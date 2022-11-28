@@ -12,7 +12,7 @@ public class DBConnection {
         String password = "changeme";
 
         try {
-            System.out.println("Connecting to the database");
+            System.out.println("Connecting to the database " + url);
             Connection connection = DriverManager.getConnection(url,username,password);
             System.out.println("Connection Successful");
         }
