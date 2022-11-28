@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/Homework1/Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneToOneMapping/OneToOneMapping.iml" filepath="$PROJECT_DIR$/OneToOneMapping/OneToOneMapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial.iml" />
     </modules>
   </component>
