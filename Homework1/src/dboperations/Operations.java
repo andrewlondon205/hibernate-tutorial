@@ -107,8 +107,5 @@ public class Operations {
        // getEmployeeById(factory,session,1);
        // getEmployeeByCompanyName(factory,session);
         // deleteEmployeeById(factory,session,7);
-
     }
-
-
 }
