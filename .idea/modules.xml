@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EagervsLazy/EagervsLazy.iml" filepath="$PROJECT_DIR$/EagervsLazy/EagervsLazy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/Homework1/Homework1.iml" />
       <module fileurl="file://$PROJECT_DIR$/OneToManyMapping/OneToManyMapping.iml" filepath="$PROJECT_DIR$/OneToManyMapping/OneToManyMapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/OneToOneMappingBi/OneToOneMappingBi.iml" filepath="$PROJECT_DIR$/OneToOneMappingBi/OneToOneMappingBi.iml" />
